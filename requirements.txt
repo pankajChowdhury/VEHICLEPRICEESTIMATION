@@ -5,6 +5,6 @@ Pillow
 scipy
 seaborn
 streamlit
-protobuf==3.19.4
+protobuf
 tensorflow
 librosa
