@@ -7,4 +7,5 @@ seaborn
 streamlit
 tensorflow
 librosa
+opencv-python
 protobuf==3.20.*
